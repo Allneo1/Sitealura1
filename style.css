@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: lightblue; /* Alterando a cor dos links, se desejar */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white; /* Para garantir que os títulos sejam brancos */
+}
+
+p.white-text {
+    color: white; /* Parágrafos específicos com texto branco */
+}
